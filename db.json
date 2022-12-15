@@ -1,0 +1,18 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Vanildo",
+      "serie": "3° ano",
+      "nota": 9.5,
+      "aprovado": true
+    }
+  ],
+  "professor": [
+    {
+      "id": 1,
+      "nome": "Roberto",
+      "matéria": "História"
+    }
+  ]
+}
